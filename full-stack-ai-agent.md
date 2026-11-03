@@ -169,3 +169,16 @@ The project demonstrates my ability to connect AI capabilities with real applica
 It also provides a foundation for future projects involving more advanced AI agents, external APIs, authentication, and larger knowledge bases.
 
 **Live Application:** https://project-06-ai-agent-web-app-murex.vercel.app
+
+## Application Screenshots
+
+### Chat Interface
+
+![AI Agent Chat Interface](UI.jpg)
+
+### Tool Execution
+![Python Tool Execution](Calculate.jpg)
+
+### Knowledge Base Retrieval
+![RAG Response](RAG.jpg)
+
